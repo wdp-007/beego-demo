@@ -1,0 +1,6 @@
+metadata:
+    debug: true
+port: 4441
+log_level: info
+redis_client:
+    host: private
