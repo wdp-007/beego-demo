@@ -1,5 +1,13 @@
 metadata:
     debug: true
+    db:
+        dbtype: postgresql
+        dbhost: 127.0.0.1
+        dbport: 5432
+        dbuser: doctor
+        dbpwd:  daa15c0ce5e95df7afd077074408a137
+        dbname: doctor_config
+        sslmode: false
 port: 4441
 log_level: info
 redis_client:
